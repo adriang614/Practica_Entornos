@@ -1,0 +1,13 @@
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
+*.bak
+
+# Archivos generados automáticamente
+*.iml
+.idea/
+out/
+build/
